@@ -7,7 +7,9 @@ A link is included only when the authors released code or the benchmark data. â€
 ## 1. Read first
 
 1. Fraser et al. (2025). Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency
-   No public code repository.
+   No public code repository for the paper itself. Related code from Kathleen Fraser's email:
+   https://github.com/Priya22/safe-finetuning
+   https://github.com/The-Safe-AI-Lab
 
 2. Qi et al. (2024). Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!
    https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety
